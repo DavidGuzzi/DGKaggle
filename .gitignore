@@ -48,3 +48,10 @@ Playground Series/Season 6/Episode 6 - Predicting Stellar Class/notebook/catboos
 Playground Series/Season 6/Episode 6 - Predicting Stellar Class/notebook/catboost_info/learn_error.tsv
 Playground Series/Season 6/Episode 6 - Predicting Stellar Class/notebook/catboost_info/time_left.tsv
 Playground Series/Season 6/Episode 6 - Predicting Stellar Class/notebook/catboost_info/tmp/cat_feature_index.8098e1bf-84fd49c4-cfe25fa1-3844ddb0.tmp
+
+# Season 6 - Episode 8 - Predicting Smartphone Addiction
+Playground Series/Season 6/Episode 8 - Predicting Smartphone Addiction/data/*.csv
+Playground Series/Season 6/Episode 8 - Predicting Smartphone Addiction/submissions/*.csv
+Playground Series/Season 6/Episode 8 - Predicting Smartphone Addiction/models/*
+!Playground Series/Season 6/Episode 8 - Predicting Smartphone Addiction/models/.gitkeep
+Playground Series/Season 6/Episode 8 - Predicting Smartphone Addiction/notebook/catboost_info/
