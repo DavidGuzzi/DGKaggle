@@ -55,3 +55,10 @@ Playground Series/Season 6/Episode 8 - Predicting Smartphone Addiction/submissio
 Playground Series/Season 6/Episode 8 - Predicting Smartphone Addiction/models/*
 !Playground Series/Season 6/Episode 8 - Predicting Smartphone Addiction/models/.gitkeep
 Playground Series/Season 6/Episode 8 - Predicting Smartphone Addiction/notebook/catboost_info/
+
+# Season 6 - Episode 9 - Predicting Electric Vehicle Purchases
+Playground Series/Season 6/Episode 9 - Predicting Electric Vehicle Purchases/data/*.csv
+Playground Series/Season 6/Episode 9 - Predicting Electric Vehicle Purchases/submissions/*.csv
+Playground Series/Season 6/Episode 9 - Predicting Electric Vehicle Purchases/models/*
+!Playground Series/Season 6/Episode 9 - Predicting Electric Vehicle Purchases/models/.gitkeep
+Playground Series/Season 6/Episode 9 - Predicting Electric Vehicle Purchases/notebook/catboost_info/
