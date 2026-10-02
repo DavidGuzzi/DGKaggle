@@ -63,3 +63,10 @@ Playground Series/Season 6/Episode 9 - Predicting Electric Vehicle Purchases/mod
 !Playground Series/Season 6/Episode 9 - Predicting Electric Vehicle Purchases/models/.gitkeep
 Playground Series/Season 6/Episode 9 - Predicting Electric Vehicle Purchases/notebook/catboost_info/
 /Playground Series/Season 6/Episode 9 - Predicting Electric Vehicle Purchases/catboost_info
+
+# Season 6 - Episode 10 - Predicting Airline Satisfaction
+Playground Series/Season 6/Episode 10 - Predicting Airline Satisfaction/data/*.csv
+Playground Series/Season 6/Episode 10 - Predicting Airline Satisfaction/submissions/*.csv
+Playground Series/Season 6/Episode 10 - Predicting Airline Satisfaction/models/*
+!Playground Series/Season 6/Episode 10 - Predicting Airline Satisfaction/models/.gitkeep
+Playground Series/Season 6/Episode 10 - Predicting Airline Satisfaction/notebook/catboost_info/
