@@ -71,3 +71,11 @@ Playground Series/Season 6/Episode 10 - Predicting Airline Satisfaction/submissi
 Playground Series/Season 6/Episode 10 - Predicting Airline Satisfaction/models/*
 !Playground Series/Season 6/Episode 10 - Predicting Airline Satisfaction/models/.gitkeep
 Playground Series/Season 6/Episode 10 - Predicting Airline Satisfaction/notebook/catboost_info/
+
+# Season 6 - Episode 11 - Predicting Credit Card Fraud
+Playground Series/Season 6/Episode 11 - Predicting Credit Card Fraud/data/*.csv
+Playground Series/Season 6/Episode 11 - Predicting Credit Card Fraud/data/original/
+Playground Series/Season 6/Episode 11 - Predicting Credit Card Fraud/submissions/*.csv
+Playground Series/Season 6/Episode 11 - Predicting Credit Card Fraud/models/*
+!Playground Series/Season 6/Episode 11 - Predicting Credit Card Fraud/models/.gitkeep
+Playground Series/Season 6/Episode 11 - Predicting Credit Card Fraud/notebook/catboost_info/
